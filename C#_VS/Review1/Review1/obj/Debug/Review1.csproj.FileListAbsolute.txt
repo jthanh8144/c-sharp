@@ -1,0 +1,10 @@
+D:\VS\C#\Winform\Review1\Review1\bin\Debug\Review1.exe.config
+D:\VS\C#\Winform\Review1\Review1\bin\Debug\Review1.exe
+D:\VS\C#\Winform\Review1\Review1\bin\Debug\Review1.pdb
+D:\VS\C#\Winform\Review1\Review1\obj\Debug\Review1.csprojAssemblyReference.cache
+D:\VS\C#\Winform\Review1\Review1\obj\Debug\Review1.Form1.resources
+D:\VS\C#\Winform\Review1\Review1\obj\Debug\Review1.Properties.Resources.resources
+D:\VS\C#\Winform\Review1\Review1\obj\Debug\Review1.csproj.GenerateResource.cache
+D:\VS\C#\Winform\Review1\Review1\obj\Debug\Review1.csproj.CoreCompileInputs.cache
+D:\VS\C#\Winform\Review1\Review1\obj\Debug\Review1.exe
+D:\VS\C#\Winform\Review1\Review1\obj\Debug\Review1.pdb

@@ -1,0 +1,16 @@
+D:\VS\C#\Winform\EntityFrame\EntityFrame\bin\Debug\EntityFrame.exe.config
+D:\VS\C#\Winform\EntityFrame\EntityFrame\bin\Debug\EntityFrame.exe
+D:\VS\C#\Winform\EntityFrame\EntityFrame\bin\Debug\EntityFrame.pdb
+D:\VS\C#\Winform\EntityFrame\EntityFrame\bin\Debug\EntityFramework.dll
+D:\VS\C#\Winform\EntityFrame\EntityFrame\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS\C#\Winform\EntityFrame\EntityFrame\bin\Debug\EntityFramework.xml
+D:\VS\C#\Winform\EntityFrame\EntityFrame\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.csprojAssemblyReference.cache
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.Form1.resources
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.Properties.Resources.resources
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.csproj.GenerateResource.cache
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.csproj.CoreCompileInputs.cache
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.csproj.CopyComplete
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.exe
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.pdb
+D:\VS\C#\Winform\EntityFrame\EntityFrame\obj\Debug\EntityFrame.Form2.resources

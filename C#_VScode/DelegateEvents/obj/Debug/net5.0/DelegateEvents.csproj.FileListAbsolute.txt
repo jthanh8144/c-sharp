@@ -1,0 +1,16 @@
+D:\VScode\C#\DelegateEvents\bin\Debug\net5.0\DelegateEvents.exe
+D:\VScode\C#\DelegateEvents\bin\Debug\net5.0\DelegateEvents.deps.json
+D:\VScode\C#\DelegateEvents\bin\Debug\net5.0\DelegateEvents.runtimeconfig.json
+D:\VScode\C#\DelegateEvents\bin\Debug\net5.0\DelegateEvents.runtimeconfig.dev.json
+D:\VScode\C#\DelegateEvents\bin\Debug\net5.0\DelegateEvents.dll
+D:\VScode\C#\DelegateEvents\bin\Debug\net5.0\ref\DelegateEvents.dll
+D:\VScode\C#\DelegateEvents\bin\Debug\net5.0\DelegateEvents.pdb
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\DelegateEvents.csprojAssemblyReference.cache
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\DelegateEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\DelegateEvents.AssemblyInfoInputs.cache
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\DelegateEvents.AssemblyInfo.cs
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\DelegateEvents.csproj.CoreCompileInputs.cache
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\DelegateEvents.dll
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\ref\DelegateEvents.dll
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\DelegateEvents.pdb
+D:\VScode\C#\DelegateEvents\obj\Debug\net5.0\DelegateEvents.genruntimeconfig.cache

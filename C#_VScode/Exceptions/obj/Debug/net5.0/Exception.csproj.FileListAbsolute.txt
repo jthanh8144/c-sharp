@@ -1,0 +1,16 @@
+D:\VScode\C#\Exceptions\bin\Debug\net5.0\Exception.exe
+D:\VScode\C#\Exceptions\bin\Debug\net5.0\Exception.deps.json
+D:\VScode\C#\Exceptions\bin\Debug\net5.0\Exception.runtimeconfig.json
+D:\VScode\C#\Exceptions\bin\Debug\net5.0\Exception.runtimeconfig.dev.json
+D:\VScode\C#\Exceptions\bin\Debug\net5.0\Exception.dll
+D:\VScode\C#\Exceptions\bin\Debug\net5.0\ref\Exception.dll
+D:\VScode\C#\Exceptions\bin\Debug\net5.0\Exception.pdb
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exception.csprojAssemblyReference.cache
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exception.AssemblyInfoInputs.cache
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exception.AssemblyInfo.cs
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exception.csproj.CoreCompileInputs.cache
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exception.dll
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\ref\Exception.dll
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exception.pdb
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exception.genruntimeconfig.cache

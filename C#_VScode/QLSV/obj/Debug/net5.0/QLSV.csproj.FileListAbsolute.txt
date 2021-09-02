@@ -1,0 +1,16 @@
+D:\VScode\C#\QLSV\obj\Debug\net5.0\QLSV.csprojAssemblyReference.cache
+D:\VScode\C#\QLSV\obj\Debug\net5.0\QLSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\C#\QLSV\obj\Debug\net5.0\QLSV.AssemblyInfoInputs.cache
+D:\VScode\C#\QLSV\obj\Debug\net5.0\QLSV.AssemblyInfo.cs
+D:\VScode\C#\QLSV\obj\Debug\net5.0\QLSV.csproj.CoreCompileInputs.cache
+D:\VScode\C#\QLSV\bin\Debug\net5.0\QLSV.exe
+D:\VScode\C#\QLSV\bin\Debug\net5.0\QLSV.deps.json
+D:\VScode\C#\QLSV\bin\Debug\net5.0\QLSV.runtimeconfig.json
+D:\VScode\C#\QLSV\bin\Debug\net5.0\QLSV.runtimeconfig.dev.json
+D:\VScode\C#\QLSV\bin\Debug\net5.0\QLSV.dll
+D:\VScode\C#\QLSV\bin\Debug\net5.0\ref\QLSV.dll
+D:\VScode\C#\QLSV\bin\Debug\net5.0\QLSV.pdb
+D:\VScode\C#\QLSV\obj\Debug\net5.0\QLSV.dll
+D:\VScode\C#\QLSV\obj\Debug\net5.0\ref\QLSV.dll
+D:\VScode\C#\QLSV\obj\Debug\net5.0\QLSV.pdb
+D:\VScode\C#\QLSV\obj\Debug\net5.0\QLSV.genruntimeconfig.cache

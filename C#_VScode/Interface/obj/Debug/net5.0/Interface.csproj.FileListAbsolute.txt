@@ -1,0 +1,16 @@
+D:\VScode\C#\Interface\bin\Debug\net5.0\Interface.exe
+D:\VScode\C#\Interface\bin\Debug\net5.0\Interface.deps.json
+D:\VScode\C#\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+D:\VScode\C#\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+D:\VScode\C#\Interface\bin\Debug\net5.0\Interface.dll
+D:\VScode\C#\Interface\bin\Debug\net5.0\ref\Interface.dll
+D:\VScode\C#\Interface\bin\Debug\net5.0\Interface.pdb
+D:\VScode\C#\Interface\obj\Debug\net5.0\Interface.csprojAssemblyReference.cache
+D:\VScode\C#\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\C#\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+D:\VScode\C#\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+D:\VScode\C#\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+D:\VScode\C#\Interface\obj\Debug\net5.0\Interface.dll
+D:\VScode\C#\Interface\obj\Debug\net5.0\ref\Interface.dll
+D:\VScode\C#\Interface\obj\Debug\net5.0\Interface.pdb
+D:\VScode\C#\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\VS\C#\Winform\LG\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\VS\C#\Winform\LG\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\VS\C#\Winform\LG\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\VS\C#\Winform\LG\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+D:\VS\C#\Winform\LG\WindowsFormsApp1\bin\Debug\LG.dll
+D:\VS\C#\Winform\LG\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+D:\VS\C#\Winform\LG\WindowsFormsApp1\bin\Debug\LG.pdb
+D:\VS\C#\Winform\LG\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\VS\C#\Winform\LG\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\VS\C#\Winform\LG\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\VS\C#\Winform\LG\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\VS\C#\Winform\LG\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\VS\C#\Winform\LG\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\VS\C#\Winform\LG\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\VS\C#\Winform\LG\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

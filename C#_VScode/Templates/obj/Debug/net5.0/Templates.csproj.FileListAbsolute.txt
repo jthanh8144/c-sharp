@@ -1,0 +1,16 @@
+D:\VScode\C#\Templates\obj\Debug\net5.0\Templates.csprojAssemblyReference.cache
+D:\VScode\C#\Templates\obj\Debug\net5.0\Templates.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\C#\Templates\obj\Debug\net5.0\Templates.AssemblyInfoInputs.cache
+D:\VScode\C#\Templates\obj\Debug\net5.0\Templates.AssemblyInfo.cs
+D:\VScode\C#\Templates\obj\Debug\net5.0\Templates.csproj.CoreCompileInputs.cache
+D:\VScode\C#\Templates\bin\Debug\net5.0\Templates.exe
+D:\VScode\C#\Templates\bin\Debug\net5.0\Templates.deps.json
+D:\VScode\C#\Templates\bin\Debug\net5.0\Templates.runtimeconfig.json
+D:\VScode\C#\Templates\bin\Debug\net5.0\Templates.runtimeconfig.dev.json
+D:\VScode\C#\Templates\bin\Debug\net5.0\Templates.dll
+D:\VScode\C#\Templates\bin\Debug\net5.0\ref\Templates.dll
+D:\VScode\C#\Templates\bin\Debug\net5.0\Templates.pdb
+D:\VScode\C#\Templates\obj\Debug\net5.0\Templates.dll
+D:\VScode\C#\Templates\obj\Debug\net5.0\ref\Templates.dll
+D:\VScode\C#\Templates\obj\Debug\net5.0\Templates.pdb
+D:\VScode\C#\Templates\obj\Debug\net5.0\Templates.genruntimeconfig.cache

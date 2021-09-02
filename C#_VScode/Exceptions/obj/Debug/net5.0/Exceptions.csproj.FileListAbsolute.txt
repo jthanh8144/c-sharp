@@ -1,0 +1,5 @@
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exceptions.csprojAssemblyReference.cache
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+D:\VScode\C#\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\VScode\C#\DelegateSort\bin\Debug\net5.0\DelegateSort.exe
+D:\VScode\C#\DelegateSort\bin\Debug\net5.0\DelegateSort.deps.json
+D:\VScode\C#\DelegateSort\bin\Debug\net5.0\DelegateSort.runtimeconfig.json
+D:\VScode\C#\DelegateSort\bin\Debug\net5.0\DelegateSort.runtimeconfig.dev.json
+D:\VScode\C#\DelegateSort\bin\Debug\net5.0\DelegateSort.dll
+D:\VScode\C#\DelegateSort\bin\Debug\net5.0\ref\DelegateSort.dll
+D:\VScode\C#\DelegateSort\bin\Debug\net5.0\DelegateSort.pdb
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\DelegateSort.csprojAssemblyReference.cache
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\DelegateSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\DelegateSort.AssemblyInfoInputs.cache
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\DelegateSort.AssemblyInfo.cs
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\DelegateSort.csproj.CoreCompileInputs.cache
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\DelegateSort.dll
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\ref\DelegateSort.dll
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\DelegateSort.pdb
+D:\VScode\C#\DelegateSort\obj\Debug\net5.0\DelegateSort.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BTWinform1/1.0.0": {
+        "runtime": {
+          "BTWinform1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTWinform1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\VS\C#\Winform\LG\LG\bin\Debug\LG.dll
+D:\VS\C#\Winform\LG\LG\bin\Debug\LG.pdb
+D:\VS\C#\Winform\LG\LG\obj\Debug\LG.csprojAssemblyReference.cache
+D:\VS\C#\Winform\LG\LG\obj\Debug\LG.UserControl1.resources
+D:\VS\C#\Winform\LG\LG\obj\Debug\LG.csproj.GenerateResource.cache
+D:\VS\C#\Winform\LG\LG\obj\Debug\LG.csproj.CoreCompileInputs.cache
+D:\VS\C#\Winform\LG\LG\obj\Debug\LG.dll
+D:\VS\C#\Winform\LG\LG\obj\Debug\LG.pdb
