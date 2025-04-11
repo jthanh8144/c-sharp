@@ -1,3 +1,93 @@
-**/.vs/
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.app
+*.userosscache
+*.suo
+*.cache
+*.dbmdl
 
-**/.vscode/
+# Visual Studio user-specific files
+.vscode/
+*.user
+*.vspscc
+*.vssscc
+*.sln.docstates
+*.DotSettings.user
+.vs/
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+# If using package reference, NuGet restore will handle this
+!**/packages.config
+
+# Rider
+.idea/
+*.sln.iml
+
+# DotCover
+.idea/.idea.DotSettings
+.idea/.dotCover
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Windows image thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+
+# Deployment artifacts
+publish/
+
+# OS generated files
+.DS_Store
+desktop.ini
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Local tools
+.localtools/
+
+# Entity Framework
+Migrations/
+
+# Others
+*.pidb
+*.svd
+
+# Rider project files
+.idea/
+
+# Global JetBrains IDE settings
+.jb/
+
+# Auto-generated database files
+*.mdf
+*.ldf
+
+# Secrets (if any manual secret files exist)
+secrets.json
