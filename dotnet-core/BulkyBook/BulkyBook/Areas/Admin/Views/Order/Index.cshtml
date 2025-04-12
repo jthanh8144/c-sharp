@@ -1,0 +1,82 @@
+﻿@*@model BulkyBook.Models.ViewModels.ShoppingCartVM*@
+@{
+    ViewData["Title"] = "Order";
+    var status = Context.Request.Query["status"];
+    var pending = "text-primary";
+    var inprocess = "text-primary";
+    var completed = "text-primary";
+    var approved = "text-primary";
+    var all = "text-primary";
+    switch (status)
+    {
+        case "pending":
+            pending = "active";
+            break;
+        case "inprocess":
+            inprocess = "active";
+            break;
+        case "completed":
+            completed = "active";
+            break;
+        case "approved":
+            approved = "active";
+            break;
+        default:
+            all = "active";
+            break;
+    }
+}
+
+<div class="p-3">
+    <div class="d-flex justify-content-between pt-4">
+        <div class="p-2">
+            <h2 class="text-primary">Order List</h2>
+        </div>
+        <div class="p-2">
+            <ul class="list-group list-group-horizontal-sm">
+                <li class="list-group-item @inprocess">
+                    <a asp-action="Index" asp-controller="Order" asp-route-status="inprocess" style="text-decoration: none; color: inherit;">
+                        In process
+                    </a>
+                </li>
+                <li class="list-group-item @pending">
+                    <a asp-action="Index" asp-controller="Order" asp-route-status="pending" style="text-decoration: none; color: inherit;">
+                        Payment pending
+                    </a>
+                </li>
+                <li class="list-group-item @completed">
+                    <a asp-action="Index" asp-controller="Order" asp-route-status="completed" style="text-decoration: none; color: inherit;">
+                        Completed
+                    </a>
+                </li>
+                <li class="list-group-item @approved">
+                    <a asp-action="Index" asp-controller="Order" asp-route-status="approved" style="text-decoration: none; color: inherit;">
+                        Approved
+                    </a>
+                </li>
+                <li class="list-group-item @all">
+                    <a asp-action="Index" asp-controller="Order" asp-route-status="all" style="text-decoration: none; color: inherit;">
+                        All
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <table id="table-data" class="table table-bordered table-striped" style="width: 100%">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Phone number</th>
+                <th>Email</th>
+                <th>Status</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+@section Scripts{
+    <script src="~/js/order.js"></script>
+}

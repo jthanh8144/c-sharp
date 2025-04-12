@@ -1,0 +1,61 @@
+Sniper for code: 
+<Tên snip> Tab Tab
+
+1. Pipeline
+- Pipeline giống middleware của express
+- Thứ tự của các pipeline là cực kì quan trọng, nó sẽ là thứ tự mà request thực tế sẽ chạy qua
+
+* Install botnet ef tools
+
+
+28. EF core CLI
+dotnet ef migrations add <migration's name> -o ./DataAccess/Migrations
+dotnet ef database update
+dotnet ef migrations remove
+
+// revert all migration
+dotnet ef database update 0
+
+dotnet tool update --global dotnet-ef
+
+29. Add HttpGet
+
+35. Add 
+`
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+`
+To Program.cs if use Postgres
+
+112. Allow null field add "?" In this c# variable in models
+
+129. Generate identity
+`
+dotnet aspnet-codegenerator identity
+`
+Update code in Program.cs change application db context
+Add `<partial name="_LoginPartial" />` to layout.cshtml
+
+193. Update in Program.cs
+`
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(
+    //options => options.SignIn.RequireConfirmedAccount = true
+    ).AddDefaultTokenProviders()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultUI();
+`
+
+=====
+New course
+dotnet ef migrations add <Name> -p Bulky.DataAccess -s BulkyWeb
+dotnet ef database update -p Bulky.DataAccess -s BulkyWeb
+
+
+
+
+
+
+
+
+
+
+

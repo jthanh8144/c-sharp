@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bulky.Models\Bulky.Models.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="SendGrid" />
+    <None Remove="MailKit" />
+    <None Remove="Microsoft.AspNetCore.Identity.UI" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="SendGrid" Version="9.28.1" />
+    <PackageReference Include="MailKit" Version="3.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="7.0.4" />
+  </ItemGroup>
+</Project>
